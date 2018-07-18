@@ -6,6 +6,7 @@ url: "https://csp.guru/" # the base hostname & protocol for your site, e.g. http
 github_username:  timtroendle
 
 # Build settings
+data_dir: csp-guru
 markdown: kramdown
 theme: minima
 plugins:
